@@ -1,6 +1,6 @@
  <h1> Summary </h1>
    An entruprenuer has approached us with the intention of investing in a new mobile application. 
-  The requirements are to explore unstaturated markets where there is the least amount of competition. 
+  The motivation of this project are to explore unstaturated markets where there is the least amount of competition. 
   
   
 <h1> Link on notebook on Kaggle </h1>
