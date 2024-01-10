@@ -1,10 +1,11 @@
  <h1> Summary </h1>
    An entruprenuer has approached us with the intention of investing in a new mobile application. 
-  The motivation of this project are to explore unstaturated markets where there is the least amount of competition. 
+  The motivation of this project is to explore unstaturated markets where there is the least amount of competition.
+  We will find out what the ideal price and size are for the new application.
   
+  https://www.kaggle.com/code/shai333/tovtech-google-play-store-apps
+
   
-<h1> Link on notebook on Kaggle </h1>
-    https://www.kaggle.com/code/shai333/tovtech-google-play-store-apps
 
 
-![wordcloud](https://github.com/shaigit/tovtech-google-app-store/assets/1949679/87786afb-c4df-410b-ab4c-32fa49786ea3)
+![category_distribution](https://github.com/shaigit/tovtech-google-app-store/assets/1949679/db8b2d31-a270-4dfb-b2ee-c37bae51552f)
